@@ -1,5 +1,5 @@
 # ArmheadDeluge
-A working backup of my "Synthstrom Deluge" settings
+A working backup of my [Synthstrom Deluge](https://synthstrom.com/product/deluge/) settings
 
 
 Sources:
